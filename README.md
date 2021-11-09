@@ -6,7 +6,7 @@
 <br>
 
 <h5>Prototípo do esqueleto do Satélite</h5>
-  <img  align="center" src="https://github.com/gustavoguanabara/html-css/blob/master/ajude-a-divulgar/arte001-gustavoguanabara/gustavoguanabara-horizontal.png?raw=true"></a>
+  <img  align="center" src="https://github.com/ProjetoHolmes/ProjetoHolmes.github.io/blob/main/prototipo.jpg?raw=true"></a>
 <h3>Fique a vontade para utilizar e modificar os arquivos  👨‍🚀</h3>
 <br>
 
